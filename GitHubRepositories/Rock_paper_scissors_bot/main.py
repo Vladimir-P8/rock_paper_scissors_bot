@@ -53,5 +53,6 @@ async def main():
     # которая будет выполняться на старте бота,
     dp.startup.register(set_main_menu)
 
+#Some changes
 
 asyncio.run(main())
